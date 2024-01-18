@@ -1,0 +1,42 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "TB Scoring",
+      "done": false,
+      "date": "2023-12-28",
+      "description": "Ds1 le 14/12/2023"
+    },
+    {
+      "id": 2,
+      "title": "MIT",
+      "done": false,
+      "date": "2023-12-27",
+      "description": "DS1 sous forme de QCM"
+    },
+    {
+      "id": 3,
+      "title": "TaskTest",
+      "done": false,
+      "date": "2023-12-14",
+      "description": "Test"
+    },
+    
+    {
+      "id": 5,
+      "title": "python",
+      "done": false,
+      "date": "2024-01-10",
+      "description": "examen"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "login": "yassine",
+      "password": "1234",
+      "token": "ffo33dde"
+    }
+    
+  ]
+}
